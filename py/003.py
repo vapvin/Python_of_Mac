@@ -9,4 +9,5 @@ my_bro = {
     3: "male"
 }
 my_bro[4] = 'stu'
+del my_bro[3]
 print(my_bro)
